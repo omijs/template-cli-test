@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/omijs/template-cli-test/issues"
   },
-  "homepage": "https://github.com/omijs/template-cli-test#readme"
+  "homepage": "https://github.com/omijs/template-cli-test#readme",
+  "dependencies": {
+    "omi-cli": "^3.1.3"
+  }
 }
